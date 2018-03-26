@@ -38,4 +38,6 @@ public class Bonacci {
     
 }
 
+//sudah di update sama erna rahma
+
 //sudah di update yaa sama meta mahyarani :)
